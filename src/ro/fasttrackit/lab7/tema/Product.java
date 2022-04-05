@@ -38,7 +38,7 @@ public class Product {
     }
 
     boolean isCategory(String category) {
-        if(this.category == category) {
+        if (this.category == category) {
             return true;
         } else {
             return false;
